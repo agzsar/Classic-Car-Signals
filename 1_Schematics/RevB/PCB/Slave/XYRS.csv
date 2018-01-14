@@ -1,0 +1,26 @@
+Reference Designator(s),X,Y,Rotation,Side
+U1,2.650in,1.200in,90,Top
+PRGE,2.650in,0.850in,0,Bottom
+R1,2.800in,1.000in,90,Top
+PRG,2.600in,1.550in,0,Bottom
+Q1,2.800in,1.8185in,0,Bottom
+Q2,2.525in,2.2435in,0,Bottom
+LT1,2.550in,2.550in,0,Top
+LT2,0.550in,0.550in,180,Top
+LT3,2.550in,0.550in,0,Top
+SL1,1.700in,0.150in,0,Top
+SL2,1.400in,2.950in,180,Top
+SL3,2.950in,1.700in,90,Top
+SL4,0.170in,1.400in,270,Top
+B1,2.5875in,1.730in,90,Bottom
+SL5,1.400in,0.150in,180,Top
+SL6,2.950in,1.400in,270,Top
+SL7,0.170in,1.700in,90,Top
+SL8,1.700in,2.950in,0,Top
+LT4,0.550in,2.550in,180,Top
+C1,2.575in,2.000in,0,Bottom
+SL9,0.450in,1.550in,0,Top
+SL10,1.570in,2.700in,270,Top
+SL11,1.550in,0.400in,90,Top
+R2,2.300in,2.300in,90,Top
+R3,2.800in,2.155in,270,Top

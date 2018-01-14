@@ -1,0 +1,8 @@
+V1.0 Prelim
+----------
+- Initial Release - everything works.
+
+V1.0
+----
+- Shortened pushbutton debouncing.
+- Added NoReset mode on Brake Button.

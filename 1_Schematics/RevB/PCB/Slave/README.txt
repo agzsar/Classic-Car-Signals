@@ -1,0 +1,13 @@
+l1m          = Top layer
+l2m          = Bottom layer
+ss1          = Top silkscreen
+ss2          = Bottom silkscreen
+sm1          = Top soldermask
+sm2          = Bottom soldermask
+sp1          = Top solderpaste
+sp2          = Bottom solderpaste
+outline      = Board outline
+drill        = Plated holes Excellon file
+drillnpt     = Non-Plated holes Excellon file
+XYRS.csv     = Parts placement file
+Slave_CCs.cad = PCBWeb Project file

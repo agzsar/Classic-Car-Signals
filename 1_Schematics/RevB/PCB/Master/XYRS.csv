@@ -1,0 +1,16 @@
+Reference Designator(s),X,Y,Rotation,Side
+U1,1.25129in,0.690in,90,Top
+PRGE,1.425in,1.350in,90,Top
+R1,1.275in,1.350in,90,Top
+PRG,1.700in,1.400in,90,Top
+LEFT,0.45009in,1.95004in,0,Bottom
+RIGHT,0.45009in,0.75004in,0,Bottom
+BRAKE,1.05009in,1.35004in,0,Bottom
+CANCEL,0.45009in,1.35004in,0,Bottom
+LALARM,1.050in,1.950in,180,Bottom
+LACTIVITY,1.650in,1.950in,0,Bottom
+R2,1.100in,1.775in,90,Top
+R3,1.600in,1.775in,90,Top
+B1,1.3125in,2.250in,90,Top
+C1,0.750in,1.650in,180,Top
+SW1,0.750in,2.250in,0,Bottom
